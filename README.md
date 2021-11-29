@@ -26,15 +26,21 @@
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
     5 Star Vine Reviews
+
     ![](https://github.com/annaS000/Amazon_Vine_Analysis/blob/main/images/paid5star.png?raw=true)
     * There were only 48 five star reviews by members of the paid Amazon Vine program. Which makes up 51.06% of the five star reviews.
 
+
     5 Star non-Vine Reviews
+
     ![](https://github.com/annaS000/Amazon_Vine_Analysis/blob/main/images/unpaid5star.png?raw=true)
     
     * There were 15663 five star reviews from non-Vine members. Which makes up 38.7% of the five star reviews.
+
+
 * **One Star Reviews**
 ![](https://github.com/annaS000/Amazon_Vine_Analysis/blob/main/images/onestar1.png?raw=true)
+
 ---
 
 ## **Summary** 
