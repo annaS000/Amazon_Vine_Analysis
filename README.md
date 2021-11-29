@@ -38,7 +38,8 @@
     * There were 15663 five star reviews from non-Vine members. Which makes up 38.7% of the five star reviews.
 
 
-* **One Star Reviews**
+**One Star Reviews**
+
 ![](https://github.com/annaS000/Amazon_Vine_Analysis/blob/main/images/onestar1.png?raw=true)
 
 ---
